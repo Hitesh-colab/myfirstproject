@@ -1,2 +1,2 @@
 # myfirstproject
-small GUI
+python small GUI 
